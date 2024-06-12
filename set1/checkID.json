@@ -1,0 +1,34 @@
+{
+    "architecture": [
+        "64bit",
+        "ELF"
+    ],
+    "machine": "x86_64",
+    "os_name": "posix",
+    "platform": "Linux-6.5.0-1021-azure-x86_64-with-glibc2.31",
+    "processor": "x86_64",
+    "release": "6.5.0-1021-azure",
+    "system": "Linux",
+    "uname": [
+        "Linux",
+        "codespaces-82562b",
+        "6.5.0-1021-azure",
+        "#22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024",
+        "x86_64",
+        "x86_64"
+    ],
+    "version": "#22~22.04.1-Ubuntu SMP Tue Apr 30 16:08:18 UTC 2024",
+    "python_build": [
+        "main",
+        "May 30 2024 20:38:07"
+    ],
+    "python_compiler": "GCC 9.4.0",
+    "python_implementation(": "CPython",
+    "python_version(": "3.10.13",
+    "python_version_tuple": [
+        "3",
+        "10",
+        "13"
+    ],
+    "cpu_count": 2
+}
